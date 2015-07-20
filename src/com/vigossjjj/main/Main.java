@@ -52,7 +52,7 @@ public class Main {
 	}
 
 	public static void printUsage() {
-		String usage = "Usage:\n" + "\t-s, --source: The source image abs path;\n" + "\t-t, --template: The template image adb path\n";
+		String usage = "Usage:\n" + "\t-s, --source: The source image absolute path;\n" + "\t-t, --template: The sub image absolute path\n";
 		System.out.println(usage);
 	}
 
